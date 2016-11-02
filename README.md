@@ -15,7 +15,7 @@ Currents On Demand - High resolution, high temporal current conditions, includin
 ---
 # Reference
 [The Weather Company](http://www.theweathercompany.com/)  
-[TWCo Forecast Daily](http://goo.gl/AoxGl3)
+[TWCo Currents Gridded](http://goo.gl/TO9kYm)
 
 ---
 #Requirements
